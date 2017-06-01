@@ -21,13 +21,13 @@ Please note that it's very important to us that we maintain a positive and suppo
 We would require the following resources to be able to complete this project
   1. **Doctors and Nurses (first responders).**
   2. **Android and Web Developers**
-  3. **Database Administrators **
-  4. **Graphic Designers **
+  3. **Database Administrators**
+  4. **Graphic Designers**
   5. **Police**
   6. **Data Security expert**
   7. **Lawyers**
   8. **Liaison Officers (to work with different NGOs and Government Institutions that the application will be linked to.)**
-  9. **Consultants **
+  9. **Consultants**
   10. **Meeting Space**
   11. **Internet Services**
   12. **Operational costs**
